@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Fragrances
 ---
-## The index page
+## Fragrances
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This will be a source to find your perfect fragrance based on vibes and your favorite notes.
 
 ## Editing pages
 
