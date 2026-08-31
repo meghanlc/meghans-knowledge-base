@@ -40,3 +40,13 @@ You can use any text editor capable of opening and editing Markdown files.
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
+## Fragrance Categories
+
+* [Fragrance Basics](fragrance-basics/)
+* [Fragrance Families](fragrance-families/)
+* [Fragrance Notes](fragrance-notes/)
+* [Fragrance History](fragrance-history/)
+* [Choosing a Fragrance](choosing-a-fragrance/)
+* [Applying and Storing](applying-and-storing/)
+
+
