@@ -35,7 +35,7 @@ The overall experience can change depending on which other notes are combined wi
 
 Citrus notes can be combined with many other types of scents. For example, citrus can be paired with floral notes for a lighter and more delicate fragrance or with woody notes for a warmer and more complex scent.
 
-You can explore these related categories through [Floral Notes](../fragrance-notes/floral-notes/) and [Woody Notes](../fragrance-notes/woody-notes/).
+You can explore these related categories through [Floral Notes](../fragrance-notes/floral-notes.md/) and [Woody Notes](../fragrance-notes/woody-notes.md/).
 
 ## Choosing a Citrus Fragrance
 

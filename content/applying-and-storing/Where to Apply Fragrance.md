@@ -31,4 +31,4 @@ The appropriate amount can depend on the fragrance's concentration and your pers
 
 Everyone may develop a different fragrance routine. Trying different application areas and amounts can help you find a routine that works for you.
 
-You can also explore [How to Apply Fragrance](how-to-apply-fragrance/) for additional information about application.
+You can also explore [How to Apply Fragrance](how-to-apply-fragrance.md/) for additional information about application.

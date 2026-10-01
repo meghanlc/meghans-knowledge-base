@@ -10,8 +10,8 @@ Choosing a fragrance can depend on your favorite notes, the season, the occasion
 
 ## Explore Choosing a Fragrance
 
-* [Choosing a Fragrance by Notes](choosing-a-fragrance-by-notes/)
-* [Choosing a Fragrance by Season](choosing-a-fragrance-by-season/)
-* [Choosing a Fragrance for Different Occasions](choosing-a-fragrance-for-different-occasions/)
+* [Choosing a Fragrance by Notes](choosing-a-fragrance-by-notes.md/)
+* [Choosing a Fragrance by Season](choosing-a-fragrance-by-season.md/)
+* [Choosing a Fragrance for Different Occasions](choosing-a-fragrance-for-different-occasions.md/)
 
-You can also explore [Fragrance Notes](../fragrance-notes/) and [Fragrance Families](../fragrance-families/) to learn more about different scent categories.
+You can also explore [Fragrance Notes](../fragrance-notes.md/) and [Fragrance Families](../fragrance-families.md/) to learn more about different scent categories.

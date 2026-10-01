@@ -27,4 +27,4 @@ Frequent changes in temperature can also be undesirable for fragrance storage. A
 
 For example, a bedroom drawer or cabinet may provide a more stable environment than a location near a window.
 
-You can also learn more about [How to Apply Fragrance](how-to-apply-fragrance/) and [Where to Apply Fragrance](where-to-apply-fragrance/) as part of your overall fragrance routine.
+You can also learn more about [How to Apply Fragrance](how-to-apply-fragrance.md/) and [Where to Apply Fragrance](where-to-apply-fragrance.md/) as part of your overall fragrance routine.

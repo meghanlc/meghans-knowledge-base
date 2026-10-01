@@ -13,7 +13,7 @@ Modern fragrances can contain both natural and synthetic ingredients. Natural in
 
 Synthetic ingredients are created to produce specific aromas and can help perfumers create consistent scents or develop new fragrance combinations.
 
-Learn more about these materials in [Fragrance Ingredients](../fragrance-basics/fragrance-ingredients/).
+Learn more about these materials in [Fragrance Ingredients](../fragrance-basics/fragrance-ingredients.md/).
 
 ## Different Fragrance Concentrations
 
