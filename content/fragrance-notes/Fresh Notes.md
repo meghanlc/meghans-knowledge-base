@@ -28,7 +28,7 @@ Fresh notes are clean, bright, and cooling. They evoke a sense of outdoor air, w
 - clean
 - cooling
 - energetic
-- 
+
 ## Fresh Notes in Perfume
 
 > Fresh notes in perfume can give a fragrance a clean and refreshing vibe. They are often used to make a perfume smell like you just got out of the shower.

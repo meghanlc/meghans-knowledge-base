@@ -13,7 +13,7 @@ Natural fragrance ingredients can come from many different parts of plants. Flow
 
 For example, citrus fruits can provide bright and fresh scents, while flowers can contribute soft or floral aromas. Woody materials can create warmer and deeper scents.
 
-Explore examples of these ingredients in [Citrus Notes](../fragrance-notes/citrus-notes/) and [Floral Notes](../fragrance-notes/floral-notes/).
+Explore examples of these ingredients in [Citrus Notes](../fragrance-notes/citrus-notes.md/) and [Floral Notes](../fragrance-notes/floral-notes.md/).
 
 ## Synthetic Ingredients
 
@@ -33,4 +33,4 @@ Perfumers combine different ingredients to create a balanced fragrance, and the 
 
 The combination of ingredients is what allows fragrances to have different personalities, from fresh and light to sweet, floral, or woody.
 
-You can explore more scent types in the [Fragrance Notes](../fragrance-notes/) section.
+You can explore more scent types in the [Fragrance Notes](../fragrance-notes.md/) section.

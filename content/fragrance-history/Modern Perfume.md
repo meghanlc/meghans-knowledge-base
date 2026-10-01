@@ -19,7 +19,7 @@ Learn more about these materials in [Fragrance Ingredients](../fragrance-basics
 
 Modern perfumes are available in different concentrations. Eau de Cologne, Eau de Toilette, Eau de Parfum, and Parfum are examples of different concentration levels. The concentration affect the intensity and longevity of a fragrance.
 
-Learn more about concentrations in [Fragrance Concentrations](../fragrance-basics/fragrance-concentrations/).
+Learn more about concentrations in [Fragrance Concentrations](../fragrance-basics/fragrance-concentrations.md/).
 
 ## Perfume Today
 
@@ -31,4 +31,4 @@ The wide variety of modern perfumes makes it possible for people to explore many
 
 Modern perfumery has developed from the use of natural aromatic materials in ancient cultures into a large industry that uses both traditional techniques and modern technology.
 
-Learning about [History of Perfume](history-of-perfume/) helps show how fragrance has changed over time.
+Learning about [History of Perfume](history-of-perfume.md/) helps show how fragrance has changed over time.

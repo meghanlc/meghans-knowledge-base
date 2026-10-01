@@ -27,4 +27,4 @@ The development of these methods contributed to the evolution of modern perfumer
 
 Modern fragrances can contain both natural and synthetic ingredients. Perfumers combine these materials to create a wide range of scents and fragrance families.
 
-You can explore more about fragrance ingredients in [Fragrance Ingredients](../fragrance-basics/fragrance-ingredients/) and learn about different scent categories in [Fragrance Families](../fragrance-families/).
+You can explore more about fragrance ingredients in [Fragrance Ingredients](../fragrance-basics/fragrance-ingredients.md/) and learn about different scent categories in [Fragrance Families](../fragrance-families.md/).
