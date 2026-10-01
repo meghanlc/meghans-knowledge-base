@@ -1,6 +1,12 @@
+---
+
+## title: Sweet Notes  
+date: 2026-10-01
+
 ## What Exactly Are Sweet Notes?
 
 Sweet notes usually have a warm, and calming scent. This scent evokes a sugary, and rich feeling, sometimes it almost smells edible. They can be warm like vanilla, or deep and rich like chocolate. 
+
 ### Common Sweet notes
 
 - Vanilla

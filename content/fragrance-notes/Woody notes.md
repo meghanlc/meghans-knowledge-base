@@ -1,3 +1,8 @@
+---
+
+## title: Woody Notes  
+date: 2026-10-01
+
 ## What Exactly Are Woody Notes?
 
 Woody notes are derived from mostly trees, but also moss, bushes, and roots. They offer earthy and smoky scents, but can also be dry and rich. Because wood molecules are heavier and evaporate slower, it gives perfume a long lasting power. Traditionally very popular in mens colognes, but are found as well in women's perfumes, which makes it a balancing scent.

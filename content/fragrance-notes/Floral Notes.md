@@ -1,6 +1,12 @@
+---
+
+## title: Floral Notes  
+date: 2026-10-01
+
 ## What Exactly are Floral Notes?
 
 Floral notes are the use of flower derived or inspired ingredients. These scents can be light and fresh, while also being romantic and bold. Floral is usually paired with fruity, and spicy scents to create more complex scents.
+
 ### Common Floral Notes
 
 - Rose

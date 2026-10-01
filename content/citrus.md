@@ -1,1 +1,0 @@
-![[citrus fruits.jpg.webp]]
