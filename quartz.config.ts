@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "meghanlc.github.io/meghans-knowledge-base/",
-    ignorePatterns: ["private", "_templates", ".obsidian"],
+    ignorePatterns: ["private", "_templates", ".obsidian", "docs"],
     defaultDateType: "created",
     theme: {
       typography: {
