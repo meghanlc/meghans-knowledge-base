@@ -14,4 +14,4 @@ Fragrance families group scents together based on their overall characteristics.
 * [Floral Fragrance Family](floral-fragrance-family/)
 * [Woody Fragrance Family](woody-fragrance-family/)
 
-You can also explore individual notes in the [Fragrance Notes](../fragrance-notes/) section.
+You can also explore individual notes in the [Fragrance Notes](../fragrance-notes/index.md) section.
