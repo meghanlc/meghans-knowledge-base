@@ -1,7 +1,7 @@
 ---
-
-## title: Woody Fragrance Family  
+title: Woody Fragrance Family  
 date: 2026-10-01
+---
 
 # Woody Fragrance Family
 

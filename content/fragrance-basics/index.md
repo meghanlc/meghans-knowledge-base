@@ -2,7 +2,7 @@
 
 title: Fragrance Basics
 date: 2026-10-01
-----------------
+---
 
 # Fragrance Basics
 

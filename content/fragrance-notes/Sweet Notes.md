@@ -1,7 +1,7 @@
 ---
-
-## title: Sweet Notes  
+title: Sweet Notes  
 date: 2026-10-01
+---
 
 ## What Exactly Are Sweet Notes?
 

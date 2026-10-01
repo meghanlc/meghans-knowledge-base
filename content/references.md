@@ -2,8 +2,7 @@
 title: References
 date: 2026-10-01
 ---
----
----
+
 # References
 
 The following sources were used to research information included in this fragrance knowledge base.

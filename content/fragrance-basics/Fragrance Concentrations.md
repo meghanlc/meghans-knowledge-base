@@ -1,7 +1,7 @@
 ---
-
-## title: Fragrance Concentrations  
+title: Fragrance Concentrations  
 date: 2026-10-01
+---
 
 # Fragrance Concentrations
 

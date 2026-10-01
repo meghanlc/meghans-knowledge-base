@@ -1,7 +1,7 @@
 ---
-
-## title: History of Perfume  
+title: History of Perfume  
 date: 2026-10-01
+---
 
 # History of Perfume
 

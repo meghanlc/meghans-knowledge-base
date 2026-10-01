@@ -2,6 +2,7 @@
 
 ## title: Citrus Notes  
 date: 2026-10-01
+---
 
 ![Cut up grapefruit, oranges, lemons, and limes representing common citrus fruits in notes.](../assets/citrus%20fruits.jpg.webp)
 

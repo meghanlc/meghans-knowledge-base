@@ -1,7 +1,7 @@
 ---
-
-## title: Where to Apply Fragrance  
+title: Where to Apply Fragrance  
 date: 2026-10-01
+---
 
 # Where to Apply Fragrance
 

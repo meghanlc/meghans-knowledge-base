@@ -1,7 +1,7 @@
 ---
-
-## title: Ancient Perfume  
+title: Ancient Perfume  
 date: 2026-10-01
+---
 
 # Ancient Perfume
 

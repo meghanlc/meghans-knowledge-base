@@ -1,7 +1,7 @@
 ---
-
-## title: Choosing a Fragrance by Notes  
-date: 2026-09-30
+ title: Choosing a Fragrance by Notes  
+ date: 2026-09-30
+---
 
 # Choosing a Fragrance by Notes
 

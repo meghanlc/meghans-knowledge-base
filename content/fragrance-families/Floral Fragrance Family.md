@@ -1,7 +1,7 @@
 ---
-
-## title: Floral Fragrance Family  
+title: Floral Fragrance Family  
 date: 2026-10-01
+---
 
 # Floral Fragrance Family
 

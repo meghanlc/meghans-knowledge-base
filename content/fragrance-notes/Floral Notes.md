@@ -1,7 +1,7 @@
 ---
-
-## title: Floral Notes  
-date: 2026-10-01
+ title: Floral Notes  
+ date: 2026-10-01
+---
 
 ## What Exactly are Floral Notes?
 

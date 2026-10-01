@@ -1,7 +1,7 @@
 ---
-
-## title: Fragrance Ingredients  
-date: 2026-09-30
+ title: Fragrance Ingredients  
+ date: 2026-09-30
+---
 
 # Fragrance Ingredients
 

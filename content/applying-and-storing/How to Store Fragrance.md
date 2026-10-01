@@ -1,7 +1,7 @@
 ---
-
-## title: How to Store Fragrance  
+title: How to Store Fragrance
 date: 2026-10-01
+---
 
 # How to Store Fragrance
 

@@ -1,7 +1,7 @@
 ---
-
-## title: Modern Perfume  
+title: Modern Perfume  
 date: 2026-09-30
+---
 
 # Modern Perfume
 

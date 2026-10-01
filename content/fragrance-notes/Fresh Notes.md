@@ -1,7 +1,7 @@
 ---
-
-## title: Fresh Notes  
+title: Fresh Notes  
 date: 2026-10-01
+---
 
 ## What Exactly Are Fresh Notes?
 

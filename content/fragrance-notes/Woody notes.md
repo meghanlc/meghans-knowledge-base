@@ -1,7 +1,7 @@
 ---
-
-## title: Woody Notes  
+title: Woody Notes  
 date: 2026-10-01
+---
 
 ## What Exactly Are Woody Notes?
 

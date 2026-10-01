@@ -1,7 +1,7 @@
 ---
-
-## title: Citrus Fragrance Family  
+title: Citrus Fragrance Family  
 date: 2026-10-01
+---
 
 # Citrus Fragrance Family
 

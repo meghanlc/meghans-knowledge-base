@@ -1,7 +1,7 @@
 ---
-
-## title: What Is Fragrance  
+title: What Is Fragrance  
 date: 2026-10-01
+---
 
 # What Is Fragrance?
 

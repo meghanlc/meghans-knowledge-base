@@ -1,7 +1,7 @@
 ---
-
-## title: Choosing a Fragrance by Season  
+title: Choosing a Fragrance by Season  
 date: 2026-10-01
+---
 
 # Choosing a Fragrance by Season
 

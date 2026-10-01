@@ -1,7 +1,7 @@
 ---
-
-## title: Choosing a Fragrance for Different Occasions  
+title: Choosing a Fragrance for Different Occasions  
 date: 2026-10-01
+---
 
 # Choosing a Fragrance for Different Occasions
 
