@@ -31,4 +31,4 @@ The amount of fragrance you use can depend on where you are going. A fragrance t
 
 There is no single way that everyone needs to apply fragrance. Experimenting with different application methods can help you discover what works best for you!
 
-Learning about [Fragrance Concentrations](../fragrance-concentrations/) can also help you understand why different fragrances may have different levels of intensity.
+Learning about [Fragrance Concentrations](../fragrance-basics/Fragrance-Concentrations) can also help you understand why different fragrances may have different levels of intensity.
