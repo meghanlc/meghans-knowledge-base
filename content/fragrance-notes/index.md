@@ -10,10 +10,10 @@ Fragrance notes describe the individual scents that contribute to the overall sm
 
 ## Explore Fragrance Notes
 
-* [Citrus Notes](citrus-notes/)
-* [Floral Notes](floral-notes/)
-* [Fresh Notes](fresh-notes/)
-* [Sweet Notes](sweet-notes/)
-* [Woody Notes](woody-notes/)
+* [Citrus Notes](../citrus-notes/)
+* [Floral Notes](../floral-notes/)
+* [Fresh Notes](../fresh-notes/)
+* [Sweet Notes](../sweet-notes/)
+* [Woody Notes](../woody-notes/)
 
 You can also learn how individual notes work together by exploring the [Fragrance Families](../fragrance-families/) section.
