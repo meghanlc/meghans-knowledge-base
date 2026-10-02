@@ -26,7 +26,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "📖 Knowledge Base Docs",
+    pageTitle: "Fragrance Guide",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
