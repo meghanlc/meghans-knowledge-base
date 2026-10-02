@@ -11,7 +11,7 @@ The citrus fragrance family is associated with bright, fresh, and often refreshi
 
 Citrus fragrances can include a variety of fruit-based notes. Lemon and lime often provide sharp, fresh qualities, while orange can create a sweeter citrus character. Grapefruit can add a slightly tart quality, and bergamot is commonly used to add a fresh citrus character to fragrances.
 
-You can explore these individual scents in [Citrus Notes](../fragrance-notes/citrus-notes.md/).
+You can explore these individual scents in [Citrus Notes](../fragrance-notes/Citrus$20Notes.md).
 
 ## Characteristics of Citrus Fragrances
 
@@ -35,7 +35,7 @@ The overall experience can change depending on which other notes are combined wi
 
 Citrus notes can be combined with many other types of scents. For example, citrus can be paired with floral notes for a lighter and more delicate fragrance or with woody notes for a warmer and more complex scent.
 
-You can explore these related categories through [Floral Notes](../fragrance-notes/floral-notes.md/) and [Woody Notes](../fragrance-notes/woody-notes.md/).
+You can explore these related categories through [Floral Notes](../fragrance-notes/Floral$20Notes.md) and [Woody Notes](../fragrance-notes/Woody%20Notes.md).
 
 ## Choosing a Citrus Fragrance
 

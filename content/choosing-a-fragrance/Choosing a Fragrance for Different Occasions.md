@@ -11,7 +11,7 @@ Different situations may influence which fragrance someone chooses to wear. Ther
 
 For everyday activities, some people prefer fragrances with fresh, clean, or lighter characteristics. Citrus and fresh notes can be options for someone who wants a simple scent for daily activities.
 
-Explore [Citrus Notes](../fragrance-notes/citrus-notes.md/) and [Fresh Notes](../fragrance-notes/fresh-notes.md/) to learn more.
+Explore [Citrus Notes](../fragrance-notes/citrus%20notes.md) and [Fresh Notes](../fragrance-notes/Fresh%20Notes.md) to learn more.
 
 ## Work or School
 

@@ -25,10 +25,10 @@ These areas can make it easy for the fragrance to be noticed without needing to 
 
 Using more fragrance does not necessarily make the experience better. Starting with a small amount allows you to see how the fragrance develops before deciding whether you need more.
 
-The appropriate amount can depend on the fragrance's concentration and your personal preference. Learn more about concentration in [Fragrance Concentrations](../fragrance-basics/fragrance-concentrations/).
+The appropriate amount can depend on the fragrance's concentration and your personal preference. Learn more about concentration in [Fragrance Concentrations](../fragrance-basics/Fragrance%20Concentrations.md).
 
 ## Finding Your Routine
 
 Everyone may develop a different fragrance routine. Trying different application areas and amounts can help you find a routine that works for you.
 
-You can also explore [How to Apply Fragrance](how-to-apply-fragrance.md/) for additional information about application.
+You can also explore [How to Apply Fragrance](How%20to%2Apply%20Fragrance.md) for additional information about application.

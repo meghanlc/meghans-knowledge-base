@@ -33,4 +33,4 @@ Winter can be a time when people choose warmer or more noticeable fragrance prof
 
 Seasonal fragrance suggestions are simply a starting point. A person may enjoy a citrus fragrance in winter or a woody fragrance in summer, it is all based on personal preference.
 
-Exploring different [Fragrance Families](../fragrance-families.md/) and [Fragrance Notes](../fragrance-notes.md/) can help you find scents that match your own preferences throughout the year.
+Exploring different [Fragrance Families](../fragrance-families/) and [Fragrance Notes](../fragrance-notes/) can help you find scents that match your own preferences throughout the year.

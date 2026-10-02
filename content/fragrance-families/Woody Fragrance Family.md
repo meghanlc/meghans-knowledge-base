@@ -35,7 +35,7 @@ The final scent depends on the combination of woody ingredients with other notes
 
 Woody notes can be combined with many other types of fragrance notes. For example, woody and citrus notes can create a contrast between warm and fresh scents. Woody and floral notes can combine earthy characteristics with softer floral aromas.
 
-Explore related categories through [Citrus Notes](../fragrance-notes/citrus-notes.md/) and [Floral Notes](../fragrance-notes/floral-notes.md/).
+Explore related categories through [Citrus Notes](../fragrance-notes/Citrus%20Notes.md) and [Floral Notes](../fragrance-notes/Floral%20Notes.md).
 
 ## Choosing a Woody Fragrance
 

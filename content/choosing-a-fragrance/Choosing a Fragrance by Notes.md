@@ -39,4 +39,4 @@ Trying different combinations can help you discover new preferences.
 
 Keeping a list of fragrances you enjoy can make it easier to identify patterns over time. Recording the notes you like can also help when looking for new fragrances and finding your new favorites!
 
-Understanding [Fragrance Families](../fragrance-families.md/) can provide another way to compare fragrances and discover scents that may interest you.
+Understanding [Fragrance Families](../fragrance-families.md) can provide another way to compare fragrances and discover scents that may interest you.
