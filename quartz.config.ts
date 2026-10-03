@@ -18,10 +18,10 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Inter",
-        body: "Inter",
-        code: "JetBrains Mono",
-      },
+  header: "Playfair Display",
+  body: "Inter",
+  code: "JetBrains Mono",
+},
       colors: {
        lightMode: {
   light: "#FCF9FD",
