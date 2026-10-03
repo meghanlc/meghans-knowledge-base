@@ -23,16 +23,16 @@ const config: QuartzConfig = {
         code: "JetBrains Mono",
       },
       colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-        },
+       lightMode: {
+  light: "#FCF9FD",
+  lightgray: "#F0E7F2",
+  gray: "#D8C8DC",
+  darkgray: "#8A7A8E",
+  dark: "#3D3340",
+  secondary: "#76527F",
+  tertiary: "#A782A9",
+  highlight: "rgba(167, 130, 169, 0.15)",
+},
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
