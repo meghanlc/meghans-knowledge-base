@@ -1,1 +1,1 @@
-I'm 31 years old residing in Dallas, Texas. I have a wife, two cats, and a dog.
+This site is all about the different fragrances that the world has to offer. New to perfumes? No worries, here you can learn everything you would need to know from the various notes, to what ingredients make a perfume. Jump right in!
