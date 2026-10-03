@@ -23,10 +23,10 @@ Trade between different regions helped spread aromatic materials and knowledge a
 
 Ancient perfumes were primarily made from natural materials. Ingredients could include flowers, herbs, fruits, spices, woods, and resins. These materials could be burned, infused into oils, or combined in other ways to create fragrant products.
 
-You can learn more about different fragrance materials in [Fragrance Ingredients](../fragrance-basics/Fragrance%20Ingredients.md).
+You can learn more about different fragrance materials in [Fragrance Ingredients](../fragrance-basics/fragrance-ingredients).
 
 ## The Beginning of Modern Perfumery
 
 The techniques developed by ancient cultures helped contribute to the long history of perfumery. Over time, methods for extracting and combining fragrant materials became more advanced. This eventually helped lead to the development of modern perfume!
 
-Learn more about the development of fragrance in [History of Perfume](history-of-perfume.md/) and [Modern Perfume](Modern%20perfume.md).
+Learn more about the development of fragrance in [History of Perfume](history-of-perfume) and [Modern Perfume](modern-perfume).

@@ -33,4 +33,4 @@ Perfumers combine different ingredients to create a balanced fragrance, and the 
 
 The combination of ingredients is what allows fragrances to have different personalities, from fresh and light to sweet, floral, or woody.
 
-You can explore more scent types in the [Fragrance Notes](../fragrance-notes.md/) section.
+You can explore more scent types in the [Fragrance Notes](../fragrance-notes/) section.

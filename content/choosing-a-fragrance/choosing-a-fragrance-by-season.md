@@ -11,19 +11,19 @@ The season can be one factor to consider when choosing a fragrance. Temperature 
 
 Spring is often associated with fresh and floral scents. Fragrances featuring floral or fresh notes may appeal to someone looking for a lighter scent during this season.
 
-Explore [Floral Notes](../fragrance-notes/floral-notes.md/) and [Fresh Notes](../fragrance-notes/fresh-notes.md/) to learn more.
+Explore [Floral Notes](../fragrance-notes/floral-notes) and [Fresh Notes](../fragrance-notes/fresh-notes) to learn more.
 
 ## Summer
 
 Fresh and citrus scents are commonly associated with summer. Bright scents can provide a refreshing fragrance experience.
 
-[Citrus Notes](../fragrance-notes/citrus-notes.md/) are one category to explore when looking for fresh and bright scents.
+[Citrus Notes](../fragrance-notes/citrus-notes) are one category to explore when looking for fresh and bright scents.
 
 ## Fall
 
 Warmer and deeper scents can be appealing during cooler weather. Woody and sweet notes can provide different options for someone who prefers a richer fragrance.
 
-Explore [Woody Notes](../fragrance-notes/woody-notes.md/) and [Sweet Notes](../fragrance-notes/sweet-notes.md/) for examples.
+Explore [Woody Notes](../fragrance-notes/woody-notes) and [Sweet Notes](../fragrance-notes/sweet-notes) for examples.
 
 ## Winter
 

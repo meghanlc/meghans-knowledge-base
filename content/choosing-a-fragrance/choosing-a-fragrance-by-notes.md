@@ -13,16 +13,14 @@ Think about scents you already enjoy. You may prefer fresh citrus scents, floral
 
 Some common categories include:
 
-- [Citrus Notes](../fragrance-notes/citrus-notes.md/)
- 
-- [Floral Notes](../fragrance-notes/floral-notes.md/)
+Some common categories include:
 
-- [Fresh Notes](../fragrance-notes/fresh-notes.md/)
+- [Citrus Notes](../fragrance-notes/citrus-notes)
+- [Floral Notes](../fragrance-notes/floral-notes)
+- [Fresh Notes](../fragrance-notes/fresh-notes)
+- [Sweet Notes](../fragrance-notes/sweet-notes)
+- [Woody Notes](../fragrance-notes/woody-notes)
 
-- [Sweet Notes](../fragrance-notes/sweet-notes.md/)
-
-- [Woody Notes](../fragrance-notes/woody-notes.md/)
-    
 Exploring these categories can help you recognize patterns in the fragrances you already like.
 
 ## Look at the Fragrance Description
@@ -39,4 +37,4 @@ Trying different combinations can help you discover new preferences.
 
 Keeping a list of fragrances you enjoy can make it easier to identify patterns over time. Recording the notes you like can also help when looking for new fragrances and finding your new favorites!
 
-Understanding [Fragrance Families](../fragrance-families.md) can provide another way to compare fragrances and discover scents that may interest you.
+Understanding [Fragrance Families](../fragrance-families/) can provide another way to compare fragrances and discover scents that may interest you.

@@ -11,7 +11,7 @@ The woody fragrance family includes scents inspired by woods, trees, and other e
 
 Common woody notes can include cedarwood, sandalwood, vetiver, and other materials associated with trees and earthy scents. The characteristics of woody ingredients can vary. Some may smell dry and crisp, while others can have warmer or creamier qualities.
 
-You can explore individual woody scents in [Woody Notes](../fragrance-notes/woody-notes.md/).
+You can explore individual woody scents in [Woody Notes](../fragrance-notes/woody-notes).
 
 ## Characteristics of Woody Fragrances
 
@@ -35,7 +35,7 @@ The final scent depends on the combination of woody ingredients with other notes
 
 Woody notes can be combined with many other types of fragrance notes. For example, woody and citrus notes can create a contrast between warm and fresh scents. Woody and floral notes can combine earthy characteristics with softer floral aromas.
 
-Explore related categories through [Citrus Notes](../fragrance-notes/Citrus%20Notes.md) and [Floral Notes](../fragrance-notes/Floral%20Notes.md).
+Explore related categories through [Citrus Notes](../fragrance-notes/citrus-notes) and [Floral Notes](../fragrance-notes/floral-notes).
 
 ## Choosing a Woody Fragrance
 

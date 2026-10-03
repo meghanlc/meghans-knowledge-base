@@ -31,4 +31,4 @@ The wide variety of modern perfumes makes it possible for people to explore many
 
 Modern perfumery has developed from the use of natural aromatic materials in ancient cultures into a large industry that uses both traditional techniques and modern technology.
 
-Learning about [History of Perfume](History%20of%20Perfume.md) helps show how fragrance has changed over time.
+Learning about [History of Perfume](history-of-perfume) helps show how fragrance has changed over time.

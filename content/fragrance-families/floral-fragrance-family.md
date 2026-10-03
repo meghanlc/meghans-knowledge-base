@@ -11,7 +11,7 @@ The floral fragrance family includes scents inspired by flowers. Floral fragranc
 
 Some common floral notes include rose, jasmine, lavender, and other flowers. Different flowers contribute different characteristics to a fragrance.
 
-Floral scents can also be combined with other fragrance notes to create a wide variety of fragrance profiles. You can explore individual floral scents in [Floral Notes](../fragrance-notes/Floral%20Notes.md).
+Floral scents can also be combined with other fragrance notes to create a wide variety of fragrance profiles. You can explore individual floral scents in [Floral Notes](../fragrance-notes/floral-notes).
 
 ## Characteristics of Floral Fragrances
 
@@ -35,7 +35,7 @@ These characteristics can vary depending on the specific ingredients and the oth
 
 Floral ingredients are frequently combined with other types of notes. For example, floral scents can be paired with citrus notes to create a bright fragrance or with woody notes to create a deeper scent.
 
-Explore related scents through [Citrus Notes](../fragrance-notes/Citrus$20Notes.md) and [Woody Notes](../fragrance-notes/Woody%20Notes.md).
+Explore related scents through [Citrus Notes](../fragrance-notes/citrus-notes) and [Woody Notes](../fragrance-notes/woody-notes).
 
 ## Choosing a Floral Fragrance
 
